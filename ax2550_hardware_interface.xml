@@ -1,0 +1,9 @@
+<library path="ax2550_hardware_interface">
+  <class name="ax2550_hardware_interface/Ax2550HardwareInterface"
+         type="ax2550_hardware_interface::Ax2550HardwareInterface"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      The ros2_control ax2550 using a system hardware interface-type.
+    </description>
+  </class>
+</library>
